@@ -1,1 +1,3 @@
-print("Chau mundo")
+
+
+mi_string = "Hola"
